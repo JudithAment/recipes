@@ -4,5 +4,5 @@
 - salt
 - pepper
 # Instructions
-
-Add pepper generously
+- smash it all together
+- Add pepper generously
